@@ -1,4 +1,4 @@
-# SIEVE_application
+
 Name of QuantLet : SIEVE_application
 
 Published in : METIS
@@ -17,3 +17,4 @@ Submitted : Wed, March 27 2019 by Bingling Wang
 Example: 
 - 1: Comparison of regression curves of linear regression, local smoothers and sieve estimation.
 - 2: Comparison of B-spline regression with the degree of 3, 10 and 25
+
