@@ -3,9 +3,9 @@ Name of QuantLet : SIEVE_application
 
 Published in : METIS
 
-Description : 'Results of different types of sieves applied in the data 'cps71' provided in the R package of 'KernSmooth'.
+Description : "Results of different types of sieves applied in the data 'cps71' provided in the R package of 'KernSmooth'.
 Comparing fitting results of linear regression, local smoothers and sieve estimation. Graphic showing the regression curves 
-of sieve with different dimensions.'
+of sieve with different dimensions."
 
 Keywords : 'Sieve-estimation, kernel-estimator, local-polynomial, polynomial-sieves, splines, B-splines, Spline-sieves, 
 non-linear estimation, non- and semi-parametric'
