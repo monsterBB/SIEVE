@@ -1,5 +1,4 @@
 rm(list = ls())
-setwd("C:/Users/ThinkPad/Desktop/sieve estimation")
 library("np")
 library(MASS)
 library('fda')
